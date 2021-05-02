@@ -19,7 +19,6 @@ PRODUCT_PACKAGES += \
     IconShapeSquareOverlay \
     DisplayCutoutEmulationNarrowOverlay \
     DisplayCutoutEmulationWideOverlay \
-    ProtonWallpaperStub \
 
 # Accent colors
 PRODUCT_PACKAGES += \
