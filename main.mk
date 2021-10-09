@@ -19,21 +19,3 @@ PRODUCT_PACKAGES += \
     IconShapeSquareOverlay \
     DisplayCutoutEmulationNarrowOverlay \
     DisplayCutoutEmulationWideOverlay \
-
-# Accent colors
-PRODUCT_PACKAGES += \
-    AccentColorPixelBlueOverlay \
-    AccentColorGoogleBlueOverlay \
-    AccentColorGoogleRedOverlay \
-    AccentColorGoogleYellowOverlay \
-    AccentColorGoogleGreenOverlay \
-    AccentColorGoogleGrayOverlay \
-    AccentColorAppleBlueOverlay \
-    AccentColorAppleGreenOverlay \
-    AccentColorAppleIndigoOverlay \
-    AccentColorAppleOrangeOverlay \
-    AccentColorApplePinkOverlay \
-    AccentColorApplePurpleOverlay \
-    AccentColorAppleRedOverlay \
-    AccentColorAppleTealOverlay \
-    AccentColorAppleYellowOverlay \
