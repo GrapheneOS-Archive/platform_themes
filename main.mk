@@ -16,5 +16,3 @@
 PRODUCT_PACKAGES += \
     ThemePicker \
     DefaultThemesStub \
-    DisplayCutoutEmulationNarrowOverlay \
-    DisplayCutoutEmulationWideOverlay \
