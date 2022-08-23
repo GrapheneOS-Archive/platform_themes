@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="themes" />
+    <array name="color_bundles">
+        <item>default</item>
+    </array>
 </resources>
